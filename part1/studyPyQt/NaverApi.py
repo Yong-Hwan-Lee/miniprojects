@@ -44,7 +44,7 @@ class NaverApi:
             return json.loads(retData) # json으로 return
 
     # json 데이터 --> list로 변환
-    def get_post_data(self, post, outputs):
+    def get_post_data(self, post, outputs): 
         title = post['title']
         description = post['description']
         originallink = post['originallink']
@@ -55,3 +55,4 @@ class NaverApi:
         pubDate = pDate.strftime('%Y-%m-%d %H:%M:%S') # 2023-03-07 17:04:00 변경
 
         # outputs에 옮기기
+        outputs.append({'title':title, 'description':description, 'originallink': originallink, 'link':link, 'pubDate':pubDate})
