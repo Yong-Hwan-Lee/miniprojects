@@ -69,3 +69,4 @@
 
 ## 미니프로젝트 실습
 
+[팀리포지토리](https://github.com/Tarel-IoT-PK/Campus)
