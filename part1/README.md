@@ -64,7 +64,10 @@
 
 - 이메일 전송, 대량메일 전송
 
-- PyGame
+- 게임만들기 - DinoRun
+  -PyGame
+
+<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/miniprojects/main/images/pygame1.png" width ="780" 
 
 
 ## 미니프로젝트 실습
