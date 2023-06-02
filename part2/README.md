@@ -19,12 +19,12 @@
 	
 온습도 더미데이터 시뮬레이션
 
-<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/miniprojects/main/images/smarthome_publisher.gif" width ="520" 
+<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/miniprojects/main/images/smarthome_publisher.gif" width ="520">
 
 스마트홈 모니터링 앱
 
-<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/miniprojects/main/images/smarthome_monitor.gif" width ="780" 
+<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/miniprojects/main/images/smarthome_monitor.gif" width ="780" >
 
 스마트홈 모니터링 시각화
 
-<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/miniprojects/main/images/smarthome_monitor2.png" width ="780" 
+<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/miniprojects/main/images/smarthome_monitor2.png" width ="780" >
