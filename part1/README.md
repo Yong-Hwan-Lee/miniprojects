@@ -66,9 +66,9 @@
 
 - 게임만들기 - DinoRun
   -PyGame
-<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/miniprojects/main/images/pygame2.png" width ="780" 
+<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/miniprojects/main/images/pygame2.png" width ="780" />
 
-<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/miniprojects/main/images/pygame1.png" width ="780" 
+<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/miniprojects/main/images/pygame1.png" width ="780" />
 
 게임화면
 
@@ -78,13 +78,13 @@
   - PyQt
     - QWebEngineView 추가
 
-<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/miniprojects/main/images/folium_gui.png" width ="780" 
+<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/miniprojects/main/images/folium_gui.png" width ="780" />
 
 - 계산기앱
   - PyQt
   - 16개 signal을 1개의 slot함수로 처리
 
-<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/miniprojects/main/images/calculator.png" width ="250" 
+<img src="https://raw.githubusercontent.com/Yong-Hwan-Lee/miniprojects/main/images/calculator.png" width ="250" />
 
 ## 미니프로젝트 실습
 
